@@ -1,1 +1,1 @@
-# Reading DICOM format file images
+# Reading DICOM format images
